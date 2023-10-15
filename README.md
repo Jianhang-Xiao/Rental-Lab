@@ -5,7 +5,7 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to interperate and clean data and predict future rental price in Taiwan. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Methods Used
 * Inferential Statistics
