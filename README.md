@@ -15,7 +15,7 @@ The purpose of this project is to interperate and clean data, then have data vis
 * etc.
 
 ### Technologies  
-* R 
+
 * Python
 * D3
 * PostGres, MySql
